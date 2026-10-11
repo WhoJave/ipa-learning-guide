@@ -1,0 +1,44 @@
+name: Deploy learning guide to GitHub Pages
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate JavaScript and bundled recordings
+        run: |
+          node --check dist/app.js
+          node --check dist/data.js
+          node --check dist/assets.js
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          root = Path('dist')
+          sounds = json.loads((root / 'content.json').read_text())
+          assert len(sounds['sounds']) == 44
+          report = json.loads((root / 'assets-report.json').read_text())
+          assert len(report) == 164
+          for item in report:
+              assert item['status'] == 'decoded', item['file']
+              assert (root / 'audio' / item['file']).is_file(), item['file']
+          PY
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+      - name: Deploy GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

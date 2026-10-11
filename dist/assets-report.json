@@ -1,0 +1,1314 @@
+[
+  {
+    "file": "ipa-i.mp3",
+    "url": "https://raw.githubusercontent.com/xiaozhah/phoneme_audio/main/audio/i%CB%90_isolation.mp3",
+    "status": "decoded",
+    "duration": 0.809796,
+    "bytes": 16718,
+    "listening_review": false
+  },
+  {
+    "file": "ipa-ih.mp3",
+    "url": "https://raw.githubusercontent.com/xiaozhah/phoneme_audio/main/audio/%C9%AA_isolation.mp3",
+    "status": "decoded",
+    "duration": 0.626939,
+    "bytes": 13061,
+    "listening_review": false
+  },
+  {
+    "file": "ipa-e.mp3",
+    "url": "https://raw.githubusercontent.com/xiaozhah/phoneme_audio/main/audio/e_isolation.mp3",
+    "status": "decoded",
+    "duration": 0.705306,
+    "bytes": 14628,
+    "listening_review": false
+  },
+  {
+    "file": "ipa-ae.mp3",
+    "url": "https://raw.githubusercontent.com/xiaozhah/phoneme_audio/main/audio/%C3%A6_isolation.mp3",
+    "status": "decoded",
+    "duration": 0.679184,
+    "bytes": 14106,
+    "listening_review": false
+  },
+  {
+    "file": "ipa-a.mp3",
+    "url": "https://raw.githubusercontent.com/xiaozhah/phoneme_audio/main/audio/%C9%91%CB%90_isolation.mp3",
+    "status": "decoded",
+    "duration": 0.888163,
+    "bytes": 18285,
+    "listening_review": false
+  },
+  {
+    "file": "ipa-lot.mp3",
+    "url": "https://raw.githubusercontent.com/xiaozhah/phoneme_audio/main/audio/%C9%92_isolation.mp3",
+    "status": "decoded",
+    "duration": 0.731429,
+    "bytes": 15151,
+    "listening_review": false
+  },
+  {
+    "file": "ipa-aw.mp3",
+    "url": "https://raw.githubusercontent.com/xiaozhah/phoneme_audio/main/audio/%C9%94%CB%90_isolation.mp3",
+    "status": "decoded",
+    "duration": 0.888163,
+    "bytes": 18285,
+    "listening_review": false
+  },
+  {
+    "file": "ipa-uh.mp3",
+    "url": "https://raw.githubusercontent.com/xiaozhah/phoneme_audio/main/audio/%CA%8A_isolation.mp3",
+    "status": "decoded",
+    "duration": 0.626939,
+    "bytes": 13061,
+    "listening_review": false
+  },
+  {
+    "file": "ipa-u.mp3",
+    "url": "https://raw.githubusercontent.com/xiaozhah/phoneme_audio/main/audio/u%CB%90_isolation.mp3",
+    "status": "decoded",
+    "duration": 0.862041,
+    "bytes": 17763,
+    "listening_review": false
+  },
+  {
+    "file": "ipa-strut.mp3",
+    "url": "https://raw.githubusercontent.com/xiaozhah/phoneme_audio/main/audio/%CA%8C_isolation.mp3",
+    "status": "decoded",
+    "duration": 0.679184,
+    "bytes": 14106,
+    "listening_review": false
+  },
+  {
+    "file": "ipa-nurse.mp3",
+    "url": "https://raw.githubusercontent.com/xiaozhah/phoneme_audio/main/audio/%C9%9C%CB%90_isolation.mp3",
+    "status": "decoded",
+    "duration": 0.862041,
+    "bytes": 17763,
+    "listening_review": false
+  },
+  {
+    "file": "ipa-schwa.mp3",
+    "url": "https://raw.githubusercontent.com/xiaozhah/phoneme_audio/main/audio/%C9%99_isolation.mp3",
+    "status": "decoded",
+    "duration": 0.679184,
+    "bytes": 14106,
+    "listening_review": false
+  },
+  {
+    "file": "ipa-face.mp3",
+    "url": "https://raw.githubusercontent.com/xiaozhah/phoneme_audio/main/audio/e%C9%AA_isolation.mp3",
+    "status": "decoded",
+    "duration": 0.783673,
+    "bytes": 16196,
+    "listening_review": false
+  },
+  {
+    "file": "ipa-goat.mp3",
+    "url": "https://raw.githubusercontent.com/xiaozhah/phoneme_audio/main/audio/%C9%99%CA%8A_isolation.mp3",
+    "status": "decoded",
+    "duration": 0.783673,
+    "bytes": 16196,
+    "listening_review": false
+  },
+  {
+    "file": "ipa-price.mp3",
+    "url": "https://raw.githubusercontent.com/xiaozhah/phoneme_audio/main/audio/a%C9%AA_isolation.mp3",
+    "status": "decoded",
+    "duration": 0.809796,
+    "bytes": 16718,
+    "listening_review": false
+  },
+  {
+    "file": "ipa-choice.mp3",
+    "url": "https://raw.githubusercontent.com/xiaozhah/phoneme_audio/main/audio/%C9%94%C9%AA_isolation.mp3",
+    "status": "decoded",
+    "duration": 0.809796,
+    "bytes": 16718,
+    "listening_review": false
+  },
+  {
+    "file": "ipa-mouth.mp3",
+    "url": "https://raw.githubusercontent.com/xiaozhah/phoneme_audio/main/audio/a%CA%8A_isolation.mp3",
+    "status": "decoded",
+    "duration": 0.835918,
+    "bytes": 17240,
+    "listening_review": false
+  },
+  {
+    "file": "ipa-near.mp3",
+    "url": "https://raw.githubusercontent.com/xiaozhah/phoneme_audio/main/audio/%C9%AA%C9%99_isolation.mp3",
+    "status": "decoded",
+    "duration": 0.783673,
+    "bytes": 16196,
+    "listening_review": false
+  },
+  {
+    "file": "ipa-square.mp3",
+    "url": "https://raw.githubusercontent.com/xiaozhah/phoneme_audio/main/audio/e%C9%99_isolation.mp3",
+    "status": "decoded",
+    "duration": 0.835918,
+    "bytes": 17240,
+    "listening_review": false
+  },
+  {
+    "file": "ipa-cure.mp3",
+    "url": "https://raw.githubusercontent.com/xiaozhah/phoneme_audio/main/audio/%CA%8A%C9%99_isolation.mp3",
+    "status": "decoded",
+    "duration": 0.705306,
+    "bytes": 14628,
+    "listening_review": false
+  },
+  {
+    "file": "ipa-p.mp3",
+    "url": "https://raw.githubusercontent.com/xiaozhah/phoneme_audio/main/audio/p_isolation.mp3",
+    "status": "decoded",
+    "duration": 0.574694,
+    "bytes": 12016,
+    "listening_review": false
+  },
+  {
+    "file": "ipa-b.mp3",
+    "url": "https://raw.githubusercontent.com/xiaozhah/phoneme_audio/main/audio/b_isolation.mp3",
+    "status": "decoded",
+    "duration": 0.548571,
+    "bytes": 11493,
+    "listening_review": false
+  },
+  {
+    "file": "ipa-t.mp3",
+    "url": "https://raw.githubusercontent.com/xiaozhah/phoneme_audio/main/audio/t_isolation.mp3",
+    "status": "decoded",
+    "duration": 0.548571,
+    "bytes": 11493,
+    "listening_review": false
+  },
+  {
+    "file": "ipa-dd.mp3",
+    "url": "https://raw.githubusercontent.com/xiaozhah/phoneme_audio/main/audio/d_isolation.mp3",
+    "status": "decoded",
+    "duration": 0.574694,
+    "bytes": 12016,
+    "listening_review": false
+  },
+  {
+    "file": "ipa-k.mp3",
+    "url": "https://raw.githubusercontent.com/xiaozhah/phoneme_audio/main/audio/k_isolation.mp3",
+    "status": "decoded",
+    "duration": 0.548571,
+    "bytes": 11493,
+    "listening_review": false
+  },
+  {
+    "file": "ipa-g.mp3",
+    "url": "https://raw.githubusercontent.com/xiaozhah/phoneme_audio/main/audio/g_isolation.mp3",
+    "status": "decoded",
+    "duration": 0.600816,
+    "bytes": 12538,
+    "listening_review": false
+  },
+  {
+    "file": "ipa-f.mp3",
+    "url": "https://raw.githubusercontent.com/xiaozhah/phoneme_audio/main/audio/f_isolation.mp3",
+    "status": "decoded",
+    "duration": 0.757551,
+    "bytes": 15673,
+    "listening_review": false
+  },
+  {
+    "file": "ipa-vv.mp3",
+    "url": "https://raw.githubusercontent.com/xiaozhah/phoneme_audio/main/audio/v_isolation.mp3",
+    "status": "decoded",
+    "duration": 0.809796,
+    "bytes": 16718,
+    "listening_review": false
+  },
+  {
+    "file": "ipa-th.mp3",
+    "url": "https://raw.githubusercontent.com/xiaozhah/phoneme_audio/main/audio/%CE%B8_isolation.mp3",
+    "status": "decoded",
+    "duration": 0.783673,
+    "bytes": 16196,
+    "listening_review": false
+  },
+  {
+    "file": "ipa-dh.mp3",
+    "url": "https://raw.githubusercontent.com/xiaozhah/phoneme_audio/main/audio/%C3%B0_isolation.mp3",
+    "status": "decoded",
+    "duration": 0.914286,
+    "bytes": 18808,
+    "listening_review": false
+  },
+  {
+    "file": "ipa-s.mp3",
+    "url": "https://raw.githubusercontent.com/xiaozhah/phoneme_audio/main/audio/s_isolation.mp3",
+    "status": "decoded",
+    "duration": 0.835918,
+    "bytes": 17240,
+    "listening_review": false
+  },
+  {
+    "file": "ipa-z.mp3",
+    "url": "https://raw.githubusercontent.com/xiaozhah/phoneme_audio/main/audio/z_isolation.mp3",
+    "status": "decoded",
+    "duration": 0.966531,
+    "bytes": 19853,
+    "listening_review": false
+  },
+  {
+    "file": "ipa-sh.mp3",
+    "url": "https://raw.githubusercontent.com/xiaozhah/phoneme_audio/main/audio/%CA%83_isolation.mp3",
+    "status": "decoded",
+    "duration": 0.914286,
+    "bytes": 18808,
+    "listening_review": false
+  },
+  {
+    "file": "ipa-zh.mp3",
+    "url": "https://raw.githubusercontent.com/xiaozhah/phoneme_audio/main/audio/%CA%92_isolation.mp3",
+    "status": "decoded",
+    "duration": 0.914286,
+    "bytes": 18808,
+    "listening_review": false
+  },
+  {
+    "file": "ipa-h.mp3",
+    "url": "https://raw.githubusercontent.com/xiaozhah/phoneme_audio/main/audio/h_isolation.mp3",
+    "status": "decoded",
+    "duration": 0.653061,
+    "bytes": 13583,
+    "listening_review": false
+  },
+  {
+    "file": "ipa-ch.mp3",
+    "url": "https://raw.githubusercontent.com/xiaozhah/phoneme_audio/main/audio/t%CA%83_isolation.mp3",
+    "status": "decoded",
+    "duration": 0.600816,
+    "bytes": 12538,
+    "listening_review": false
+  },
+  {
+    "file": "ipa-j.mp3",
+    "url": "https://raw.githubusercontent.com/xiaozhah/phoneme_audio/main/audio/d%CA%92_isolation.mp3",
+    "status": "decoded",
+    "duration": 0.653061,
+    "bytes": 13583,
+    "listening_review": false
+  },
+  {
+    "file": "ipa-m.mp3",
+    "url": "https://raw.githubusercontent.com/xiaozhah/phoneme_audio/main/audio/m_isolation.mp3",
+    "status": "decoded",
+    "duration": 0.940408,
+    "bytes": 19330,
+    "listening_review": false
+  },
+  {
+    "file": "ipa-n.mp3",
+    "url": "https://raw.githubusercontent.com/xiaozhah/phoneme_audio/main/audio/n_isolation.mp3",
+    "status": "decoded",
+    "duration": 0.966531,
+    "bytes": 19853,
+    "listening_review": false
+  },
+  {
+    "file": "ipa-ng.mp3",
+    "url": "https://raw.githubusercontent.com/xiaozhah/phoneme_audio/main/audio/%C5%8B_isolation.mp3",
+    "status": "decoded",
+    "duration": 1.044898,
+    "bytes": 21420,
+    "listening_review": false
+  },
+  {
+    "file": "ipa-l.mp3",
+    "url": "https://raw.githubusercontent.com/xiaozhah/phoneme_audio/main/audio/l_isolation.mp3",
+    "status": "decoded",
+    "duration": 0.992653,
+    "bytes": 20375,
+    "listening_review": false
+  },
+  {
+    "file": "ipa-r.mp3",
+    "url": "https://raw.githubusercontent.com/xiaozhah/phoneme_audio/main/audio/r_isolation.mp3",
+    "status": "decoded",
+    "duration": 0.731429,
+    "bytes": 15151,
+    "listening_review": false
+  },
+  {
+    "file": "ipa-y.mp3",
+    "url": "https://raw.githubusercontent.com/xiaozhah/phoneme_audio/main/audio/j_isolation.mp3",
+    "status": "decoded",
+    "duration": 0.705306,
+    "bytes": 14628,
+    "listening_review": false
+  },
+  {
+    "file": "ipa-w.mp3",
+    "url": "https://raw.githubusercontent.com/xiaozhah/phoneme_audio/main/audio/w_isolation.mp3",
+    "status": "decoded",
+    "duration": 0.626939,
+    "bytes": 13061,
+    "listening_review": false
+  },
+  {
+    "file": "thin-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/thin--_gb_1.mp3",
+    "status": "decoded",
+    "duration": 0.679184,
+    "bytes": 5641,
+    "listening_review": false
+  },
+  {
+    "file": "thin-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/thin--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.862041,
+    "bytes": 7104,
+    "listening_review": false
+  },
+  {
+    "file": "hair-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/hair--_gb_1.mp3",
+    "status": "decoded",
+    "duration": 0.809796,
+    "bytes": 6814,
+    "listening_review": false
+  },
+  {
+    "file": "hair-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/hair--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.757551,
+    "bytes": 6268,
+    "listening_review": false
+  },
+  {
+    "file": "dog-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/dog--_gb_2.mp3",
+    "status": "decoded",
+    "duration": 0.757551,
+    "bytes": 6268,
+    "listening_review": false
+  },
+  {
+    "file": "dog-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/dog--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.809796,
+    "bytes": 6814,
+    "listening_review": false
+  },
+  {
+    "file": "sit-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/sit--_gb_1.mp3",
+    "status": "decoded",
+    "duration": 0.835918,
+    "bytes": 6895,
+    "listening_review": false
+  },
+  {
+    "file": "sit-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/sit--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.757551,
+    "bytes": 6396,
+    "listening_review": false
+  },
+  {
+    "file": "schedule-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/schedule--_gb_1.mp3",
+    "status": "decoded",
+    "duration": 1.018776,
+    "bytes": 8358,
+    "listening_review": false
+  },
+  {
+    "file": "schedule-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/schedule--_us_1.mp3",
+    "status": "decoded",
+    "duration": 1.044898,
+    "bytes": 8695,
+    "listening_review": false
+  },
+  {
+    "file": "bath-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/bath--_gb_1.mp3",
+    "status": "decoded",
+    "duration": 0.679184,
+    "bytes": 5641,
+    "listening_review": false
+  },
+  {
+    "file": "bath-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/bath--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.757551,
+    "bytes": 6268,
+    "listening_review": false
+  },
+  {
+    "file": "bag-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/bag--_gb_1.mp3",
+    "status": "decoded",
+    "duration": 0.705306,
+    "bytes": 5850,
+    "listening_review": false
+  },
+  {
+    "file": "bag-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/bag--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.809796,
+    "bytes": 6686,
+    "listening_review": false
+  },
+  {
+    "file": "cup-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/cup--_gb_1.mp3",
+    "status": "decoded",
+    "duration": 0.783673,
+    "bytes": 6477,
+    "listening_review": false
+  },
+  {
+    "file": "cup-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/cup--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.705306,
+    "bytes": 5850,
+    "listening_review": false
+  },
+  {
+    "file": "about-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/about--_gb_1.mp3",
+    "status": "decoded",
+    "duration": 1.018776,
+    "bytes": 8358,
+    "listening_review": false
+  },
+  {
+    "file": "about-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/about--_us_1.mp3",
+    "status": "decoded",
+    "duration": 1.018776,
+    "bytes": 8358,
+    "listening_review": false
+  },
+  {
+    "file": "go-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/go--_gb_1.mp3",
+    "status": "decoded",
+    "duration": 0.731429,
+    "bytes": 6059,
+    "listening_review": false
+  },
+  {
+    "file": "go-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/go--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.835918,
+    "bytes": 6895,
+    "listening_review": false
+  },
+  {
+    "file": "this-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/this--_gb_1.mp3",
+    "status": "decoded",
+    "duration": 0.783673,
+    "bytes": 6477,
+    "listening_review": false
+  },
+  {
+    "file": "this-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/this--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.809796,
+    "bytes": 6686,
+    "listening_review": false
+  },
+  {
+    "file": "law-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/law--_gb_1.mp3",
+    "status": "decoded",
+    "duration": 0.705306,
+    "bytes": 5978,
+    "listening_review": false
+  },
+  {
+    "file": "law-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/law--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.783673,
+    "bytes": 6477,
+    "listening_review": false
+  },
+  {
+    "file": "house-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/house--_gb_2.mp3",
+    "status": "decoded",
+    "duration": 0.940408,
+    "bytes": 7731,
+    "listening_review": false
+  },
+  {
+    "file": "house-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/house--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.888163,
+    "bytes": 7313,
+    "listening_review": false
+  },
+  {
+    "file": "no-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/no--_gb_1.mp3",
+    "status": "decoded",
+    "duration": 0.731429,
+    "bytes": 6059,
+    "listening_review": false
+  },
+  {
+    "file": "no-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/no--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.809796,
+    "bytes": 6686,
+    "listening_review": false
+  },
+  {
+    "file": "tea-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/tea--_gb_2.mp3",
+    "status": "decoded",
+    "duration": 0.783673,
+    "bytes": 6477,
+    "listening_review": false
+  },
+  {
+    "file": "tea-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/tea--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.757551,
+    "bytes": 6268,
+    "listening_review": false
+  },
+  {
+    "file": "now-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/now--_gb_1.mp3",
+    "status": "decoded",
+    "duration": 0.757551,
+    "bytes": 6268,
+    "listening_review": false
+  },
+  {
+    "file": "now-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/now--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.862041,
+    "bytes": 7104,
+    "listening_review": false
+  },
+  {
+    "file": "car-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/car--_gb_1.mp3",
+    "status": "decoded",
+    "duration": 0.835918,
+    "bytes": 6895,
+    "listening_review": false
+  },
+  {
+    "file": "car-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/car--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.809796,
+    "bytes": 6686,
+    "listening_review": false
+  },
+  {
+    "file": "tomato-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/tomato--_gb_2.mp3",
+    "status": "decoded",
+    "duration": 1.123265,
+    "bytes": 9194,
+    "listening_review": false
+  },
+  {
+    "file": "tomato-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/tomato--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.992653,
+    "bytes": 8149,
+    "listening_review": false
+  },
+  {
+    "file": "job-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/job--_gb_1.mp3",
+    "status": "decoded",
+    "duration": 0.888163,
+    "bytes": 7313,
+    "listening_review": false
+  },
+  {
+    "file": "job-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/job--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.835918,
+    "bytes": 6895,
+    "listening_review": false
+  },
+  {
+    "file": "sin-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/sin--_gb_2.mp3",
+    "status": "decoded",
+    "duration": 0.862041,
+    "bytes": 7104,
+    "listening_review": false
+  },
+  {
+    "file": "sin-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/sin--_us_2.mp3",
+    "status": "decoded",
+    "duration": 0.809796,
+    "bytes": 6686,
+    "listening_review": false
+  },
+  {
+    "file": "right-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/right--_gb_1.mp3",
+    "status": "decoded",
+    "duration": 0.914286,
+    "bytes": 7522,
+    "listening_review": false
+  },
+  {
+    "file": "right-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/right--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.992653,
+    "bytes": 8277,
+    "listening_review": false
+  },
+  {
+    "file": "bad-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/bad--_gb_1.mp3",
+    "status": "decoded",
+    "duration": 0.731429,
+    "bytes": 6059,
+    "listening_review": false
+  },
+  {
+    "file": "bad-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/bad--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.835918,
+    "bytes": 6895,
+    "listening_review": false
+  },
+  {
+    "file": "bird-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/bird--_gb_1.mp3",
+    "status": "decoded",
+    "duration": 0.835918,
+    "bytes": 6895,
+    "listening_review": false
+  },
+  {
+    "file": "bird-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/bird--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.835918,
+    "bytes": 6895,
+    "listening_review": false
+  },
+  {
+    "file": "vest-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/vest--_gb_1.mp3",
+    "status": "decoded",
+    "duration": 0.940408,
+    "bytes": 7731,
+    "listening_review": false
+  },
+  {
+    "file": "vest-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/vest--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.914286,
+    "bytes": 7522,
+    "listening_review": false
+  },
+  {
+    "file": "water-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/water--_gb_3.mp3",
+    "status": "decoded",
+    "duration": 0.862041,
+    "bytes": 7104,
+    "listening_review": false
+  },
+  {
+    "file": "water-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/water--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.888163,
+    "bytes": 7441,
+    "listening_review": false
+  },
+  {
+    "file": "leg-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/leg--_gb_1.mp3",
+    "status": "decoded",
+    "duration": 0.757551,
+    "bytes": 6396,
+    "listening_review": false
+  },
+  {
+    "file": "leg-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/leg--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.757551,
+    "bytes": 6396,
+    "listening_review": false
+  },
+  {
+    "file": "near-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/near--_gb_1.mp3",
+    "status": "decoded",
+    "duration": 0.835918,
+    "bytes": 6895,
+    "listening_review": false
+  },
+  {
+    "file": "near-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/near--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.809796,
+    "bytes": 6686,
+    "listening_review": false
+  },
+  {
+    "file": "pen-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/pen--_gb_1.mp3",
+    "status": "decoded",
+    "duration": 0.731429,
+    "bytes": 6059,
+    "listening_review": false
+  },
+  {
+    "file": "pen-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/pen--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.809796,
+    "bytes": 6686,
+    "listening_review": false
+  },
+  {
+    "file": "girl-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/girl--_gb_1.mp3",
+    "status": "decoded",
+    "duration": 0.783673,
+    "bytes": 6477,
+    "listening_review": false
+  },
+  {
+    "file": "girl-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/girl--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.835918,
+    "bytes": 6895,
+    "listening_review": false
+  },
+  {
+    "file": "see-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/see--_gb_1.mp3",
+    "status": "decoded",
+    "duration": 0.835918,
+    "bytes": 6895,
+    "listening_review": false
+  },
+  {
+    "file": "see-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/see--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.914286,
+    "bytes": 7522,
+    "listening_review": false
+  },
+  {
+    "file": "van-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/van--_gb_3.mp3",
+    "status": "decoded",
+    "duration": 0.731429,
+    "bytes": 6059,
+    "listening_review": false
+  },
+  {
+    "file": "van-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/van--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.862041,
+    "bytes": 7104,
+    "listening_review": false
+  },
+  {
+    "file": "zoo-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/zoo--_gb_1.mp3",
+    "status": "decoded",
+    "duration": 0.783673,
+    "bytes": 6477,
+    "listening_review": false
+  },
+  {
+    "file": "zoo-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/zoo--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.888163,
+    "bytes": 7313,
+    "listening_review": false
+  },
+  {
+    "file": "shoe-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/shoe--_gb_1.mp3",
+    "status": "decoded",
+    "duration": 0.809796,
+    "bytes": 6686,
+    "listening_review": false
+  },
+  {
+    "file": "shoe-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/shoe--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.809796,
+    "bytes": 6686,
+    "listening_review": false
+  },
+  {
+    "file": "new-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/new--_gb_1.mp3",
+    "status": "decoded",
+    "duration": 0.705306,
+    "bytes": 5850,
+    "listening_review": false
+  },
+  {
+    "file": "new-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/new--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.809796,
+    "bytes": 6686,
+    "listening_review": false
+  },
+  {
+    "file": "fool-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/fool--_gb_1.mp3",
+    "status": "decoded",
+    "duration": 0.679184,
+    "bytes": 5641,
+    "listening_review": false
+  },
+  {
+    "file": "fool-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/fool--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.862041,
+    "bytes": 7104,
+    "listening_review": false
+  },
+  {
+    "file": "food-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/food--_gb_1.mp3",
+    "status": "decoded",
+    "duration": 0.679184,
+    "bytes": 5641,
+    "listening_review": false
+  },
+  {
+    "file": "food-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/food--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.914286,
+    "bytes": 7522,
+    "listening_review": false
+  },
+  {
+    "file": "cat-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/cat--_gb_1.mp3",
+    "status": "decoded",
+    "duration": 0.835918,
+    "bytes": 6895,
+    "listening_review": false
+  },
+  {
+    "file": "cat-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/cat--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.809796,
+    "bytes": 6686,
+    "listening_review": false
+  },
+  {
+    "file": "sing-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/sing--_gb_1.mp3",
+    "status": "decoded",
+    "duration": 0.809796,
+    "bytes": 6686,
+    "listening_review": false
+  },
+  {
+    "file": "sing-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/sing--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.914286,
+    "bytes": 7522,
+    "listening_review": false
+  },
+  {
+    "file": "full-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/full--_gb_1.mp3",
+    "status": "decoded",
+    "duration": 0.705306,
+    "bytes": 5850,
+    "listening_review": false
+  },
+  {
+    "file": "full-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/full--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.835918,
+    "bytes": 6895,
+    "listening_review": false
+  },
+  {
+    "file": "bed-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/bed--_gb_2.mp3",
+    "status": "decoded",
+    "duration": 0.626939,
+    "bytes": 5223,
+    "listening_review": false
+  },
+  {
+    "file": "bed-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/bed--_us_2.mp3",
+    "status": "decoded",
+    "duration": 0.757551,
+    "bytes": 6268,
+    "listening_review": false
+  },
+  {
+    "file": "ship-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/ship--_gb_1.mp3",
+    "status": "decoded",
+    "duration": 0.862041,
+    "bytes": 7104,
+    "listening_review": false
+  },
+  {
+    "file": "ship-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/ship--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.809796,
+    "bytes": 6814,
+    "listening_review": false
+  },
+  {
+    "file": "vision-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/vision--_gb_1.mp3",
+    "status": "decoded",
+    "duration": 0.809796,
+    "bytes": 6686,
+    "listening_review": false
+  },
+  {
+    "file": "vision-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/vision--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.940408,
+    "bytes": 7731,
+    "listening_review": false
+  },
+  {
+    "file": "wet-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/wet--_gb_2.mp3",
+    "status": "decoded",
+    "duration": 0.835918,
+    "bytes": 6895,
+    "listening_review": false
+  },
+  {
+    "file": "wet-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/wet--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.757551,
+    "bytes": 6268,
+    "listening_review": false
+  },
+  {
+    "file": "sheep-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/sheep--_gb_1.mp3",
+    "status": "decoded",
+    "duration": 0.679184,
+    "bytes": 5641,
+    "listening_review": false
+  },
+  {
+    "file": "sheep-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/sheep--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.862041,
+    "bytes": 7104,
+    "listening_review": false
+  },
+  {
+    "file": "red-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/red--_gb_1.mp3",
+    "status": "decoded",
+    "duration": 0.757551,
+    "bytes": 6396,
+    "listening_review": false
+  },
+  {
+    "file": "red-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/red--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.809796,
+    "bytes": 6686,
+    "listening_review": false
+  },
+  {
+    "file": "day-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/day--_gb_1.mp3",
+    "status": "decoded",
+    "duration": 0.835918,
+    "bytes": 6895,
+    "listening_review": false
+  },
+  {
+    "file": "day-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/day--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.809796,
+    "bytes": 6686,
+    "listening_review": false
+  },
+  {
+    "file": "fan-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/fan--_gb_1.mp3",
+    "status": "decoded",
+    "duration": 0.783673,
+    "bytes": 6477,
+    "listening_review": false
+  },
+  {
+    "file": "fan-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/fan--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.783673,
+    "bytes": 6477,
+    "listening_review": false
+  },
+  {
+    "file": "yes-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/yes--_gb_1.mp3",
+    "status": "decoded",
+    "duration": 0.966531,
+    "bytes": 7940,
+    "listening_review": false
+  },
+  {
+    "file": "yes-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/yes--_us_2.mp3",
+    "status": "decoded",
+    "duration": 0.835918,
+    "bytes": 6895,
+    "listening_review": false
+  },
+  {
+    "file": "teacher-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/teacher--_gb_1.mp3",
+    "status": "decoded",
+    "duration": 0.940408,
+    "bytes": 7731,
+    "listening_review": false
+  },
+  {
+    "file": "teacher-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/teacher--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.862041,
+    "bytes": 7104,
+    "listening_review": false
+  },
+  {
+    "file": "chair-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/chair--_gb_2.mp3",
+    "status": "decoded",
+    "duration": 0.731429,
+    "bytes": 6059,
+    "listening_review": false
+  },
+  {
+    "file": "chair-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/chair--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.888163,
+    "bytes": 7313,
+    "listening_review": false
+  },
+  {
+    "file": "my-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/my--_gb_1.mp3",
+    "status": "decoded",
+    "duration": 0.783673,
+    "bytes": 6477,
+    "listening_review": false
+  },
+  {
+    "file": "my-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/my--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.835918,
+    "bytes": 6895,
+    "listening_review": false
+  },
+  {
+    "file": "book-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/book--_gb_1.mp3",
+    "status": "decoded",
+    "duration": 0.731429,
+    "bytes": 6059,
+    "listening_review": false
+  },
+  {
+    "file": "book-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/book--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.705306,
+    "bytes": 5850,
+    "listening_review": false
+  },
+  {
+    "file": "pure-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/pure--_gb_1.mp3",
+    "status": "decoded",
+    "duration": 0.809796,
+    "bytes": 6686,
+    "listening_review": false
+  },
+  {
+    "file": "pure-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/pure--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.862041,
+    "bytes": 7104,
+    "listening_review": false
+  },
+  {
+    "file": "man-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/man--_gb_1.mp3",
+    "status": "decoded",
+    "duration": 0.809796,
+    "bytes": 6814,
+    "listening_review": false
+  },
+  {
+    "file": "man-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/man--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.914286,
+    "bytes": 7650,
+    "listening_review": false
+  },
+  {
+    "file": "west-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/west--_gb_1.mp3",
+    "status": "decoded",
+    "duration": 0.940408,
+    "bytes": 7859,
+    "listening_review": false
+  },
+  {
+    "file": "west-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/west--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.940408,
+    "bytes": 7731,
+    "listening_review": false
+  },
+  {
+    "file": "light-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/light--_gb_1.mp3",
+    "status": "decoded",
+    "duration": 0.809796,
+    "bytes": 6686,
+    "listening_review": false
+  },
+  {
+    "file": "light-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/light--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.862041,
+    "bytes": 7104,
+    "listening_review": false
+  },
+  {
+    "file": "father-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/father--_gb_1.mp3",
+    "status": "decoded",
+    "duration": 0.992653,
+    "bytes": 8149,
+    "listening_review": false
+  },
+  {
+    "file": "father-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/father--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.862041,
+    "bytes": 7104,
+    "listening_review": false
+  },
+  {
+    "file": "key-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/key--_gb_1.mp3",
+    "status": "decoded",
+    "duration": 0.705306,
+    "bytes": 5850,
+    "listening_review": false
+  },
+  {
+    "file": "key-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/key--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.783673,
+    "bytes": 6477,
+    "listening_review": false
+  },
+  {
+    "file": "hot-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/hot--_gb_1.mp3",
+    "status": "decoded",
+    "duration": 0.809796,
+    "bytes": 6686,
+    "listening_review": false
+  },
+  {
+    "file": "hot-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/hot--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.835918,
+    "bytes": 6895,
+    "listening_review": false
+  },
+  {
+    "file": "boy-gb.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/boy--_gb_1.mp3",
+    "status": "decoded",
+    "duration": 0.731429,
+    "bytes": 6059,
+    "listening_review": false
+  },
+  {
+    "file": "boy-us.mp3",
+    "url": "https://ssl.gstatic.com/dictionary/static/sounds/20200429/boy--_us_1.mp3",
+    "status": "decoded",
+    "duration": 0.809796,
+    "bytes": 6686,
+    "listening_review": false
+  }
+]

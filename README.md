@@ -1,44 +1,36 @@
-# IPA Learning Guide
+# IPA Learning Guide · Sound Atlas
 
-A friendly, structured introduction to the International Phonetic Alphabet (IPA)—the sound-based notation that helps learners understand pronunciation across languages.
+在线学习：https://WhoJave.github.io/ipa-learning-guide/
 
-## What you'll learn
+静态 HTML / CSS / JavaScript 学习网站。英式采用传统 RP 教学转写，美式采用 General American；并非完整 IPA 总表。
 
-- What the IPA is and how to read its symbols
-- The difference between phonetics and phonology
-- How consonants and vowels are described
-- How stress, tone, length, and other features are marked
-- How to use IPA in dictionaries and language study
+## 运行
 
-## Suggested learning path
+```bash
+cd dist
+python3 -m http.server 8000
+```
 
-1. **Start with the basics** — learn what a sound, a phoneme, and a transcription are.
-2. **Explore consonants** — focus on place and manner of articulation, plus voicing.
-3. **Explore vowels** — use tongue height, backness, and lip rounding to orient each sound.
-4. **Learn suprasegmentals** — practice stress, length, tone, and intonation marks.
-5. **Read real transcriptions** — compare words in a language you know with dictionary entries.
-6. **Transcribe and listen** — connect symbols to actual speech, not just memorized charts.
+访问 http://localhost:8000 。不需要 Node 依赖或编译。
 
-## Core idea
+## 发音
 
-IPA symbols represent speech sounds, not spelling. The same letter can represent different sounds in different languages, and the same sound can have different spellings. A transcription is most useful when paired with careful listening and a clear convention (broad phonemic `/…/` or narrow phonetic `[…]`).
+- 英式音素示范：Oxford Dictionary 教学录音，来源链见 SOURCES.md；如下载失败则显示真实失败，不使用 TTS。
+- 英美例词：Google 字典公开词语录音，保存在 dist/audio。美式音素通过例词定位，明确标注为整词录音，绝不把英式录音冒充美式。
+- 本地优先，外链仅在本地录音未取得时使用。所有示范保持原速；不通过调 playbackRate 改变音高。
+- assets-report.json 记录每项下载状态。HTTP/解码检查不等于专家听审，所有未听审状态保持明确。
+- 没有 speechSynthesis、语音识别评分或自动准确率承诺。
 
-## Project roadmap
+## 内容范围
 
-- [ ] Beginner-friendly symbol guides
-- [ ] Consonant and vowel chart walkthroughs
-- [ ] Audio examples and listening exercises
-- [ ] Practice transcriptions with answer keys
-- [ ] Notes on accents and language-specific variation
+44 项传统英式音素、通用美式映射与 R 音化、拼读规则和例外、重音/弱读/连读、易混音、浏览器本地学习记录。
 
-## Scope note
+## 验证
 
-The IPA is a tool for describing speech sounds. Pronunciation varies across speakers and contexts, so transcriptions are useful representations—not the sounds themselves. This guide is educational and will distinguish general IPA conventions from language- or accent-specific choices.
+`node --check dist/app.js`；44 音素与分类完整性、HTML 引用与交互目标检查；音频通过 ffprobe 解码检查；当前环境无浏览器 QA 能力，因此未做浏览器播放与专家听审。
 
-## Contributing
+## GitHub Pages
 
-Suggestions, corrections, and examples are welcome. When proposing a transcription, include the language or accent and whether it is broad phonemic or narrow phonetic transcription.
+静态根目录：`dist`。`.github/workflows/pages.yml` 在每次推送 `main` 时校验代码和音频文件，然后部署整个 `dist`。仓库 Settings → Pages → Source 选择 GitHub Actions。所有 CSS、JS 和音频引用采用相对路径，支持 `/ipa-learning-guide/` 子目录。
 
-## License
-
-To be decided.
+IPA 是跨语言的记音工具。本项目目前聚焦英语英美口音；声调、其他语言的完整 IPA 总表和带答案的转写训练仍属于后续扩展范围。
