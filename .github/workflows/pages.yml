@@ -1,7 +1,5 @@
 name: Deploy learning guide to GitHub Pages
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
 permissions:
   contents: read
@@ -30,7 +28,7 @@ jobs:
           sounds = json.loads((root / 'content.json').read_text())
           assert len(sounds['sounds']) == 44
           report = json.loads((root / 'assets-report.json').read_text())
-          assert len(report) == 164
+          assert len(report) == 209
           for item in report:
               assert item['status'] == 'decoded', item['file']
               assert (root / 'audio' / item['file']).is_file(), item['file']
